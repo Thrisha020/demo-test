@@ -2,10 +2,6 @@
 
 This is a demo repository for testing purposes.
 
-## Features
-- Demo repository
-- Created automatically
-- Ready for development
 
 ## Usage
 Clone the repository and start developing!
